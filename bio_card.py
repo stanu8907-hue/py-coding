@@ -19,3 +19,24 @@ print(f"🚀 Dream    : {dream}")
 print("=" * 35)
 print("   Keep coding, keep growing! 🌱")
 print("=" * 35)
+✨✨✨
+   WELCOME TO BIO CARD MAKER
+✨✨✨✨✨
+
+👤 Your name: Tanu
+🎂 Your age: 18
+🏫 College: Raffles university
+💻 Favorite skill: Web Design
+🚀 Dream job: UI/UX Designer
+
+-----------------------------------
+           YOUR BIO CARD
+-----------------------------------
+🌟 Name     : Tanu
+🎂 Age      : 18 years
+🏫 College  : Raffles university
+💻 Skill    : Web Design
+🚀 Dream    : softwear engineering
+-----------------------------------
+   Keep coding, keep growing! 🌱
+-----------------------------------
